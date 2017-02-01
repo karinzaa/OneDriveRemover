@@ -1,3 +1,6 @@
+![alt text][logo]
+
+[logo]: http://imgur.com/a/F3bVW "Logo Title Text 2"
 # OneDriveRemover
 
 ### Remove OneDrive service in your computer</n>
