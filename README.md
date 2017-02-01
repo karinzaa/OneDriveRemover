@@ -1,8 +1,4 @@
 # OneDriveRemover
-Reference-style: 
-![alt text][logo]
-
-[logo]: http://imgur.com/a/YhvE6 "Logo Title Text 2"
 ------
 Remove OneDrive service in your computer</n>
 ------
