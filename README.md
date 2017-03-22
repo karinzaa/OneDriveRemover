@@ -1,8 +1,7 @@
 ![Imgur](http://i.imgur.com/zz7iqIM.png)
 
-------
 |Tool| 
-------
+|----|
 
 # OneDriveRemover 
 
